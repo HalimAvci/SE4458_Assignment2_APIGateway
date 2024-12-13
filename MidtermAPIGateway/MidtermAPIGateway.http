@@ -1,0 +1,6 @@
+@MidtermAPIGateway_HostAddress = http://localhost:5197
+
+GET {{MidtermAPIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

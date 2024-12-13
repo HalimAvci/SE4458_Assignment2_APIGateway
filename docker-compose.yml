@@ -1,0 +1,23 @@
+services:
+  midtermapigateway:
+    image: ${DOCKER_REGISTRY-}midtermapigateway
+    build:
+      context: .
+      dockerfile: MidtermAPIGateway\Dockerfile
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+    networks:
+      - proxybackend
+
+  se4458-midterm:
+    image: ${DOCKER_REGISTRY-}se4458midterm
+    build:
+      context: .
+      dockerfile: SE4458-midterm\Dockerfile
+    ports:
+      - "5100:5100"
+      - "5101:5101"
+    networks:
+      - proxybackend
+

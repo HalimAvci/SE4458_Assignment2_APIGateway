@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halim\\source\\repos\\SE4458-midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259FF78E-7300-4D33-AD03-4B5E8E819D8C}|MidtermAPIGateway\\MidtermAPIGateway.csproj|c:\\users\\halim\\source\\repos\\se4458-midterm\\midtermapigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{259FF78E-7300-4D33-AD03-4B5E8E819D8C}|MidtermAPIGateway\\MidtermAPIGateway.csproj|solutionrelative:midtermapigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0880BC0-FEBF-45BE-841A-3F89516A7FFB}|SE4458-midterm\\SE4458-midterm.csproj|c:\\users\\halim\\source\\repos\\se4458-midterm\\se4458-midterm\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A0880BC0-FEBF-45BE-841A-3F89516A7FFB}|SE4458-midterm\\SE4458-midterm.csproj|solutionrelative:se4458-midterm\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Halim\\source\\repos\\SE4458-midterm\\SE4458-midterm\\Dockerfile",
+              "RelativeDocumentMoniker": "SE4458-midterm\\Dockerfile",
+              "ToolTip": "C:\\Users\\Halim\\source\\repos\\SE4458-midterm\\SE4458-midterm\\Dockerfile",
+              "RelativeToolTip": "SE4458-midterm\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T21:05:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Halim\\source\\repos\\SE4458-midterm\\MidtermAPIGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "MidtermAPIGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Halim\\source\\repos\\SE4458-midterm\\MidtermAPIGateway\\Dockerfile",
+              "RelativeToolTip": "MidtermAPIGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T20:51:58.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
